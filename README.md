@@ -1,4 +1,5 @@
-# Hi there, I'm Nawod! 👋
+# Hi there, I'm Nawod! 👋 
+![Views](https://komarev.com/ghpvc/?username=Nawod2000&color=blue&style=flat-square)
 
 ## 🚀 Associate Software Engineer
 I am a passionate developer focused on building scalable, high-performance applications. I enjoy working on both frontend and backend technologies to create seamless user experiences.
@@ -21,18 +22,22 @@ I am a passionate developer focused on building scalable, high-performance appli
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Tools & Hosting
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
-## 📈 GitHub Stats
+## 📉 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawod2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawod2000&layout=compact&theme=dark" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nawod2000/Nawod2000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nawod2000/Nawod2000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nawod2000/Nawod2000/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
