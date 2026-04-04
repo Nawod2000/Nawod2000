@@ -1,7 +1,7 @@
 # Hi there, I'm Nawod! 👋 
 ![Views](https://komarev.com/ghpvc/?username=Nawod2000&color=blue&style=flat-square)
 
-## 🚀 Associate Software Engineer
+## 🚀  Software Engineer
 I am a passionate developer focused on building scalable, high-performance applications. I enjoy working on both frontend and backend technologies to create seamless user experiences.
 
 - 🔭 Currently working on **Full-Stack projects** using modern architectures.
@@ -21,14 +21,6 @@ I am a passionate developer focused on building scalable, high-performance appli
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-## 📉 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawod2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawod2000&layout=compact&theme=dark" />
-</p>
 
 ---
 
