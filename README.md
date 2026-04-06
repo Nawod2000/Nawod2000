@@ -10,17 +10,24 @@ I am a passionate developer focused on building scalable, high-performance appli
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack  
 
-### Backend & Databases
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+
+<br/>
+
+### 🎨 Frontend & Mobile  
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+
+<br/>
+
+### 🛠 Tools & Others  
+<img src="https://skillicons.dev/icons?i=git,postman,github,vscode" />
+
+</div>
 
 ---
 
