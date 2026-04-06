@@ -40,6 +40,14 @@ I am a passionate developer focused on building scalable, high-performance appli
 
 ---
 
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ඔයාගේ-linkedin-link-එක-මෙතනට)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](ඔයාගේ-portfolio-link-එක-මෙතනට)
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-name">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
