@@ -12,14 +12,6 @@ I am a passionate developer focused on building **scalable, high-performance app
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawod2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawod2000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### ⚙️ Backend & Database
